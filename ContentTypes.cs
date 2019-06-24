@@ -1,8 +1,7 @@
 ﻿/// <summary>
-/// Created 2019-06-17 by Absid89
-/// 
-/// 
-/// 
+/// Created: 2019-06-17 by Absid89
+/// Source: https://www.iana.org/assignments/media-types/media-types.xhtml
+/// Project: https://github.com/absid89/ContentTypes
 /// </summary>
 namespace ContentTypes
 
